@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Copie of a letter from Paris, the 24. Jun. 4. Jul. 1642 vpon the subject of the conspiracie : for the which the Marquesse of Sainct Mars, great esquire of France, Monsieur de Thou, councellour of state, and Monsieur de Chauagnac, are kept in prison : vvith another copie  of a letter from Narbon, serving to the clearing of the businesse : wherein may be seen the marvellous deliverance of France, and her confederates or friends, but especially of England, involved in that plot.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34479</idno>
+            <idno type="STC">Wing C6119</idno>
+            <idno type="STC">ESTC R22173</idno>
+            <idno type="EEBO-CITATION">12684937</idno>
+            <idno type="OCLC">ocm 12684937</idno>
+            <idno type="VID">65751</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34479)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65751)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 252:E154, no 11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Copie of a letter from Paris, the 24. Jun. 4. Jul. 1642 vpon the subject of the conspiracie : for the which the Marquesse of Sainct Mars, great esquire of France, Monsieur de Thou, councellour of state, and Monsieur de Chauagnac, are kept in prison : vvith another copie  of a letter from Narbon, serving to the clearing of the businesse : wherein may be seen the marvellous deliverance of France, and her confederates or friends, but especially of England, involved in that plot.</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>for J. B.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chavagnac, François de, --  sieur de Lugarde, d. 1676.</term>
+               <term>Thou, François de, 1607-1642.</term>
+               <term>Cinq-Mars, Henri Coiffier Ruzé d'Effiat, --  marquis de, 1620-1642.</term>
+               <term>Europe --  History --  1517-1648.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65751:1"/>
+            <pb facs="tcp:65751:1" rendition="simple:additions"/>
+            <p>The Copie of a Letter From <hi>Paris,</hi> the 24. Jun. 4. Jul. 1642. <hi>Upon the ſubject of the</hi> CONSPIRACIE: For the which the Marqueſſe of Sainct <hi>Mars,</hi> great Eſquire of <hi>France, Monſieur de Thou,</hi> Councellour of State, <hi>and Monſieur de Chauagnac,</hi> are kept in priſon.</p>
+            <p>VVith another Copie of a Letter from <hi>Narbon,</hi> ſerving to the clearing of the buſineſſe:</p>
+            <p rend="italic">Wherein may be ſeen the marvellous deliverance of <hi>France,</hi> and of her Confederates or Friends, but eſpecially of <hi>England,</hi> Involved in that plot.</p>
+            <p>Printed at London for <hi>J. B.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:65751:2"/>
+            <pb n="1" facs="tcp:65751:2"/>
+            <head>
+               <hi>A true Copie of certaine Letters from</hi> Paris, <hi>and other parts: Declaring the conſpiracie of divers great perſonages againſt</hi> France <hi>and</hi> England.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Conſpiracie (for the which <hi>Monſieur le Grand</hi> is ſtill kept ſtrictly in the Cita<g ref="char:EOLhyphen"/>delle of <hi>Montpellier,</hi> and the Lords of <hi>Thou</hi> and <hi>Chauagnac</hi> in the Town of <hi>Ta<g ref="char:EOLhyphen"/>raſcon)</hi> was not tending onely to the deſtruction of the Councels of <hi>Monſieur</hi> the Cardinall <hi>Richelieu,</hi> and of his credit by the King, but to the confuſion of this State, and Confederates, and ſpecially to the ſubverſion of <hi>England.</hi> They have been examined by the Lord of <hi>Choizi,</hi> and by this examen it appea<g ref="char:EOLhyphen"/>red, that they had already in ſome ſort worked in the ſpirit of his Majeſty, and that without any no<g ref="char:EOLhyphen"/>tice to the great Cardinall; for the ſaid Lord <hi>le Grand</hi> had confeſſed to have written (by Order ſea<g ref="char:EOLhyphen"/>led by the King) to the Queen Mother; and the Lord of <hi>Thou</hi> to have ſent alſo, by order of his Ma<g ref="char:EOLhyphen"/>jeſty, by Letter of Exchange, ten thouſand Crowns, to <hi>Madam de Cheureuze.</hi>
+            </p>
+            <p>Many Letters or Miſſives of the Queen of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+               <pb n="2" facs="tcp:65751:3"/> were found among the writings of the ſaid Lord <hi>le Grand.</hi>
+            </p>
+            <p>The Dutcheſſe of <hi>Bovillon</hi> (which is ſuſpected to be of the ſame party) had withdrawne her ſelfe few dayes agoe, from this City, to <hi>Sedan.</hi> The ſaid Lord of <hi>Thou,</hi> (being queſtioned againe for the ſpace of three houres, by the Lord of <hi>Chauigni,</hi> Se<g ref="char:EOLhyphen"/>cretary of State) had declared among other things, that it was reſolved to kill the ſaid Lord of <hi>Chau<g ref="char:EOLhyphen"/>igny,</hi> which is a perſon mightily acting, and confi<g ref="char:EOLhyphen"/>dent to the ſervice of his Majeſty, under the ſaid Cardinall, and that it was he which had prevented that blow.</p>
+            <p>The King had confeſſed to the ſaid Cardinall, that the Lords <hi>de Grand</hi> and of <hi>Thou,</hi> had propoun<g ref="char:EOLhyphen"/>ded unto him ſome Articles of Peace with the Houſe of <hi>Auſtria.</hi> This Peace was ſo plotted with<g ref="char:EOLhyphen"/>out any warning to his Eminencie, perſwading his Majeſty, that the ſaid Cardinall for his owne ends was repugnant to the publique tranquillity, and therefore that he was not to have any notice of this negociation: embraced by the higheſt Ladies, for<g ref="char:EOLhyphen"/>ged by the Jeſuites, ſtirred up by the violence of this <hi>primum mobile</hi> of <hi>Spaine,</hi> which cauſed <hi>Madame de Cheureuze</hi> to paſſe from <hi>Paris</hi> to <hi>Madrid,</hi> from <hi>Madrid</hi> to <hi>London,</hi> and from <hi>London</hi> to <hi>Bruxels,</hi> and which had been choaked or ſtill-born, (in the point of the execution.) By that ſupreame providence, the ordinary guide of his Majeſty, which had inſpi<g ref="char:EOLhyphen"/>red him to perceive ſuddenly the danger of this precipice, and to ſtick cloſe, better and better to
+<pb n="3" facs="tcp:65751:3"/> the good and male councels of the ſaid Cardinall.</p>
+            <p>By this Peace, the Queene-mother, the Prin<g ref="char:EOLhyphen"/>ceſſe, and other diſcontented perſons, exiled from <hi>France,</hi> were to be re-eſtabliſhed; the houſes of <hi>Sa<g ref="char:EOLhyphen"/>voy</hi> and <hi>Lorraine</hi> reintegrated, and reſtaured, all that is of this ſide of <hi>Rhine</hi> re-eſtabliſhed; as it was be<g ref="char:EOLhyphen"/>fore the wars. <hi>Catalonla,</hi> and other Countries and places taken in <hi>Spaine</hi> reſtored, the Cardinall of <hi>Richelieu</hi> and all his friends deſtroyed, the Kings true confederates, (after the conſummation or ſpoile of ſo many men and money theſe many yeares agoe, for their recovery) left deſolate; eſ<g ref="char:EOLhyphen"/>pecially the houſe Palatine, and other Proteſtants, and <hi>France</hi> to the prey of the houſe of <hi>Auſtria,</hi> the which onely was to receive benefit, in this diſorder, by the vileneſſe of his creatures, which under hope to rule therein, did imagine to ſubvert the wiſe proceedings of his Majeſty, and under him the ge<g ref="char:EOLhyphen"/>nerous deſignes of that brave Cardinall, the reper<g ref="char:EOLhyphen"/>cuſſion of which blow was to be fatall, and bring<g ref="char:EOLhyphen"/>ing ruine to <hi>England,</hi> notwithſtanding whatſoever female promiſes made to the Catholiques there, and to their Adherents, blinded in this plot, that by this Peace they ſhould have their liberty, and that Kingdome ſhould be hereafter ſo abſolute, as the liberty of the Subject hath been there great and happy untill this time, under the priviledges of the Parliament.</p>
+            <p>Now to ſhew you cleerly and by proofe of fact, that the houſe of <hi>Auſtria</hi> thought to deſtroy the ſaid Cardinall, not for the publique tranquility, but
+<pb n="4" facs="tcp:65751:4"/> for the better advancing his owne vaſt and prodi<g ref="char:EOLhyphen"/>gious deſignes; and that thoſe which directly or indirectly have any hand to it, doe worke out their owne confuſion. I ſend you here annexed the Co<g ref="char:EOLhyphen"/>pie of a Letter written from <hi>Narbonne,</hi> by a Mini<g ref="char:EOLhyphen"/>ſter of State, before the impriſonment of the ſaid Lord <hi>le Grand</hi> and others: In the which you ſhall perceive what hath hindered this generall Peace to be deſired.</p>
+         </div>
+         <div type="letter">
+            <opener>
+               <dateline>From <hi>Narbonne</hi> 
+                  <date>the 22. of <hi>May. 1642.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THe laſt Aviſoes that we have from Hamborough, make better and better known unto us, how little ſincere the proceedings are of the houſe of <hi>Auſtria,</hi> touch<g ref="char:EOLhyphen"/>ing the publique tranquillity, whereunto ſhe hath no incli<g ref="char:EOLhyphen"/>nation. The King of <hi>Hungaria</hi> hath not onely diſclaimed or diſallowed once the Lord <hi>Lutzall</hi> his Ambaſſadour, (which hath ſigned the Tract of Preparatories, founded with full power from himſelfe) but he hath imployed him ſince, and the Earle of <hi>Aversburg,</hi> which is alſo from his part in <hi>Hamborough,</hi> for to propound to the Lord <hi>Sal<g ref="char:EOLhyphen"/>vius,</hi> Ambaſſadour of Swede, one Tract of particular peace with the Swediſh, which doth witneſſe that he de<g ref="char:EOLhyphen"/>ſireth in no wayes the peace of the Common-wealth, but onely to be free of ſome of his enemies, for to warre ſtill a<g ref="char:EOLhyphen"/>gainſt
+<pb n="5" facs="tcp:65751:4"/> the others, and that he had not any good intention when he treated of the Preparatories of Peace. Notwith<g ref="char:EOLhyphen"/>ſtanding all this, his deſignes ſhall not come to paſſe, ſeeing that the Crowne of <hi>Sweden</hi> is not for to repugne to the Confederacie made with <hi>France.</hi> By all this is to be diſ<g ref="char:EOLhyphen"/>cerned the wicked faith of the King of <hi>Hungaria,</hi> and that nothing but ſtrength of Armes is able to bring him to Peace; In ſuch ſort that all the contribution of men and money made unto him in theſe wars by <hi>Germanie,</hi> is one<g ref="char:EOLhyphen"/>ly one Sacrifice that ſhe makes to the advantage of the houſe of <hi>Auſtria,</hi> which ſhall bring forth nothing but the ruine of the Empire.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
